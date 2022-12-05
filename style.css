@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(0, 0, 0, 0.499);
+    font-family: Helvetica, Cursive, Monospace;
+}
+
+.title {
+    color: white;
+    background-color: rgb(14, 63, 109);
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    border: 15px double black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.list.recipes {
+    color: white;
+    font-size: 24px;
+    background-color: rgb(14, 63, 109);
+    text-align: center;
+    list-style-position: inside;
+    border: 15px double black;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.list.recipes a {
+    color: white;
+}
